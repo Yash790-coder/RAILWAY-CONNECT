@@ -179,9 +179,7 @@ Additional regression tests can be added as the project grows.
 
 ## Repository
 
-GitHub: https://github.com/0526yash/RailConnect
-
-*Update the repository URL above after the GitHub rename is complete.*
+GitHub: https://github.com/Yash790-coder/RAILWAY-CONNECT
 
 ---
 
